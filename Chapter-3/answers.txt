@@ -1,0 +1,6 @@
+1) base-2 binary system
+2) 255
+3) 1364067664
+4) "sequence of characters with a definite
+    length used to represent text."
+5) true
