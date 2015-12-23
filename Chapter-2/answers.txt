@@ -1,0 +1,5 @@
+1) Newlines, spaces or tabs.
+2) A form of documenting code. `//` or `/* text */`
+3) package fmt
+4) Import the os package
+5) fmt.Println("Hello, my name is Jordan"
